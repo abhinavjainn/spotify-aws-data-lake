@@ -8,6 +8,8 @@ Application runs automatically everyday using AWS Lambda function triggered by E
 
 Data collection is done to serve a broader scope and subsets can be used for specific analytical tasks.
 
+AWS infrastructure is automated using Terraform.
+
 Some possible use cases:
   - Analyse UK music trend against global one over a time period.
   - Draw insights on popular UK music preferences in a specific period or how it evolves over time.
