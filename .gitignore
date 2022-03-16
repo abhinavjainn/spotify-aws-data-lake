@@ -2,3 +2,5 @@ environment.env
 .DS_Store
 venv
 .terraform/
+.terraform.lock.hcl
+.idea/
