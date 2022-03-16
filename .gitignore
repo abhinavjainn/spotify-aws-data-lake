@@ -5,3 +5,4 @@ terraform_aws/.terraform
 terraform_aws/.terraform.lock.hcl
 .idea/
 terraform_aws/terraform*
+.cache
