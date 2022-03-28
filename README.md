@@ -1,5 +1,8 @@
 # Data Lake on AWS ingested by Spotify APIs
 
+![spotify_aws_data_lake_architecture](https://user-images.githubusercontent.com/71486660/160407208-4dd57233-0da3-4977-aeef-126e577cf00d.png)
+
+
 This application collects data from [top 50 UK](https://open.spotify.com/playlist/37i9dQZEVXbMwmF30ppw50?si=701ed0ce8c234b69) and [top 50 global](https://open.spotify.com/playlist/37i9dQZEVXbNG2KDcFcKOF?si=ad7071f3e7314f35) playlists from Spotify everyday.
 
 Along with the songs, data are also collected on associated artists, albums, genre (hip hop, trance etc), track features (danceability, instrumentalness etc.), and spotify popularity index.
